@@ -1,0 +1,144 @@
+.a{
+	height: 580;
+	width: 1000;
+	padding: 10px;
+	background-color: silver;
+}
+.b{
+	height: 30;
+	width: 1000;
+	margin-top: 10px;
+	margin-bottom: 10px;
+    background-color:white;
+    box-shadow: 3px 3px grey;
+    border-radius: 5px;
+    padding-top:10px;
+}
+.gaya3
+{
+	height:500;
+	width: 1000; 
+}
+.c
+{
+	height: 400;
+	width: 250;
+	margin-left: 10px;
+	margin-right: 10px;
+    background-color: white;
+    float: left;
+    box-shadow: 3px 3px grey;
+    border-radius: 5px;
+    padding-top: 10px;
+}
+.e{
+	height:500;
+	width: 700;
+	float: right;
+
+}
+.d{
+	height:250;
+	width: 700;
+	margin-right: 10px;
+	margin-bottom: 10px;
+    background-color:white;
+    box-shadow: 3px 3px grey;
+    border-radius: 5px;
+
+}
+form{
+	font-size: 12px;
+	text-align: left;
+	padding: 10px;
+}
+input{
+	margin-left:40px; 
+}
+.s{
+	margin:100px;
+	border: 1px;
+	border-radius:12px;
+	background-color: blue; 
+	color: white;
+	padding: 10px;
+}
+.s1{
+	margin-left:200px;
+	margin-top: 5px;
+	padding: 4px;
+	border: 1px;
+	border-radius:3px;
+	background-color:green; 
+	color: white;
+	box-shadow: 2px 2px silver;
+}
+.s2{
+	border: 1px;
+	margin: 5px;
+	border-radius:3px;
+	background-color: skyblue; 
+	color: white;
+	padding: 4px;
+	box-shadow: 2px 2px silver;
+}
+.s3{
+	margin-right: 200px;
+	margin-top: 5px;
+	border: 1px;
+	border-radius:3px;
+	background-color:red; 
+	color: white;
+	padding: 4px;
+	box-shadow: 2px  2px silver;
+}
+h3{
+	text-align: left;
+	margin: 10px;
+}
+.g{
+	text-align: left;
+	margin: 10px;
+}
+.c1{
+	height: 80px;
+	width: 80px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border:3px solid blue;
+	border-radius: 50%; 
+}
+.na{
+    font-size: 15px;
+   }
+#s1{
+	border: 1px solid blue;
+	margin: 5px;
+	border-radius:3px;
+	background-color: blue; 
+	color: white;
+	padding: 4px 5px;
+	box-shadow: 2px 2px silver;
+}
+#s2{
+	border: 1px solid blue;
+	margin: 5px;
+	border-radius:3px;
+	background-color:white; 
+	color: blue;
+	padding: 4px 5px;
+	box-shadow: 2px 2px blue;
+}
+i{
+	font-size: 20px;
+}
+img{
+	height: 50px;
+	width: 50px;
+	margin: 10px 8px 0px 8px;
+}
+progress{
+	height: 5px;
+	width: 650px;
+	margin-left:3px;
+}

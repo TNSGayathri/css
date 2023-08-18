@@ -1,0 +1,7 @@
+.abc{
+	height: 150;
+	width: 300;
+	background-color: pink;
+	border: 10px dotted red;
+	background-clip: padding-box;
+}

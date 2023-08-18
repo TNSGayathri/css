@@ -1,0 +1,51 @@
+#external
+{
+	border: 5px dashed red; 
+}
+p
+{
+	color: red;
+}
+*{
+   font-size: 20;
+   font-family: cursive;
+   color:pink;
+}
+div{
+	height: 100;
+	width: 100;
+	background-color: black;
+}
+input[type]
+{
+	color:hotpink;
+	font-size: 20
+}
+input[type="text"]
+{
+	color:red;
+	font-size: 20
+}
+input[type="number"]
+{
+	color:skyblue;
+	font-size: 20;
+}
+a[href]
+{
+	color: black;
+	font-size: 20
+}
+a:hover{
+	color:red;
+}
+a:active
+{
+	color: blue;
+}
+div:hover{
+	background-color: hotpink;
+	height: 300px;
+	width: 400px;
+
+}
